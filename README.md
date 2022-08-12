@@ -1,0 +1,2 @@
+I did a project on Automation anywhere. It was helpful under the stock setting website users.
+I created the bot to retrive the Info of the given stock from the excel amd get the recording of each hour stepdown and stepup and get the profit of it.

@@ -1,4 +1,4 @@
-var readlineSync = require('readlineSync');
+var readlineSync = require('readline-sync');
 var homeTown = readlineSync.question("What is my Home Town?");
 console.log(homeTown);
 var score=0;

@@ -1,2 +1,7 @@
-I did a project on Automation anywhere. It was helpful under the stock setting website users.
-I created the bot to retrive the Info of the given stock from the excel amd get the recording of each hour stepdown and stepup and get the profit of it.
+Hi, I am Shabrez
+
+This are the assignmets of neogcamp and interesting in this is the quiz game just go try it.
+
+File name--- quiz.js
+
+Run it on any javascript compiler
